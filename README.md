@@ -1,6 +1,7 @@
 # 🎬 Box Office Search App
 
-A React-based movie search application that allows users to find movies, TV shows, and more using the TVmaze API. It provides a clean, responsive interface with dynamic search results and detailed show information.
+A React-based movie search application that allows users to find movies, TV shows, and more using the TVmaze API.
+It provides a clean, responsive interface with dynamic search results and detailed show information.
 
 ## 🔍 Features
 
@@ -25,11 +26,13 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/varshareddygangasani/box-office-search-app.git
 cd box-office-search-app/my-react-app
+
 2. Install Dependencies
 bash
 Copy
 Edit
 npm install
+
 3. Run the App
 bash
 Copy
@@ -37,39 +40,10 @@ Edit
 npm start
 The app will open in your default browser at http://localhost:3000
 
-📂 Project Structure
-java
-Copy
-Edit
-my-react-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
-🖼️ Screenshots
-Add screenshots of your app UI here (home page, search results, show details, etc.)
-
 🌟 Credits
+
 TVmaze for providing the free and powerful API
+Built by Varshareddy Gangasani
 
-Built with ❤️ by Varshareddy Gangasani
 
-📄 License
-This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you’d like to:
-- Add deployed link (if you host it on Netlify/Vercel)
-- Embed demo GIF
-- Customize with a personal logo or icon
-
-I can modify it further if needed.
